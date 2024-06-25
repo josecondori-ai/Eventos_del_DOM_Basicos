@@ -52,23 +52,4 @@ Este ejemplo muestra cómo detectar la presión de una tecla (incluyendo teclas 
 2. Abre cualquiera de los archivos HTML en tu navegador.
 3. Interactúa con los elementos en la página para ver los eventos en acción.
 
-## Código de Ejemplo
 
-A continuación se presenta un ejemplo del código para el evento `click`:
-
-**Archivo HTML (click.html):**
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Click Event Example</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <button id="clickButton">Haz clic aquí</button>
-    <p id="clickMessage"></p>
-    <script src="click.js"></script>
-</body>
-</html>
